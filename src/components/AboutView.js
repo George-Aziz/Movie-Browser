@@ -8,7 +8,7 @@ const AboutView = () => {
             <div className='row'>
                 <div className='col-lg-8 offset-lg-2 my-5'>
                     <p className='lead'>
-                        [Placeholder Text]
+                        A simple movie browser created by George Aziz.
                     </p>
                 </div>
             </div>
